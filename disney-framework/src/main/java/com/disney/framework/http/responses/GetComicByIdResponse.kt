@@ -4,11 +4,6 @@ import com.disney.framework.http.responses.internal.EmptyStateInfo
 import com.disney.framework.http.responses.models.Data
 import com.google.gson.annotations.SerializedName
 
-/**
- * Response for TODO
- *
- * @property data TODO
- */
 data class GetComicByIdResponse(
     @SerializedName("data") val data: Data? = null
 ) : EmptyStateInfo {
