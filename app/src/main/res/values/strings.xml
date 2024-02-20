@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Disney Interview</string>
+
+    <!-- ui component values -->
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="read_now">read now</string>
+    <string name="mark_as_read">mark as read</string>
+    <string name="add_to_library">add to library</string>
+    <string name="read_offline">read offline</string>
+
+    <!-- accessibility values -->
+    <string name="acc_previous_button">Button, previous book</string>
+    <string name="acc_next_button">Button, next book</string>
+    <string name="acc_profile_picture">Image, profile picture of superhero</string>
+    <string name="acc_mark_as_read">Button, mark as read</string>
+    <string name="acc_add_to_library">Button, add to library</string>
+    <string name="acc_read_offline">Button, read offline</string>
+</resources>
